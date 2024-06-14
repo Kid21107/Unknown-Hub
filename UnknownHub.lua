@@ -41,8 +41,8 @@ else
     return 'Not Support Game'
 end
 local Window = Fluent:CreateWindow({
-    Title = "VN1 Hub",
-    SubTitle = "Version [Skid]",
+    Title = "Unknown Hub",
+    SubTitle = "Version 1",
     TabWidth = 160,
     Size = UDim2.fromOffset(530, 350),
     Acrylic = true,
