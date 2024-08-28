@@ -1,5 +1,5 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-local Window = OrionLib:MakeWindow({IntroText = "Kid Hub",Name = "Doors", HidePremium = false, SaveConfig = true, ConfigFolder = "DoorsSex"})
+local Window = OrionLib:MakeWindow({IntroText = "Hmmm",Name = "Kid Hub", HidePremium = false, SaveConfig = true, ConfigFolder = "DoorsSex"})
 
 local VisualsTab = Window:MakeTab({
 	Name = "Visuals",
