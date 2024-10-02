@@ -1,4 +1,4 @@
-_G.DiddyMode = true
+
 getgenv().Configs = {
 	Main = {
 		SkipFarm = true,
@@ -111,7 +111,7 @@ getgenv().Configs = {
 		WhiteScreen = false
 	}
 }
--- If you have more than 1 key, select only 1.
+_G.DiddyMode = true
 _G.Key = "main_yOPHz5hxQx3SEHfy4ejW"
 
 _G.DiscordId = "1014100745718603797"
